@@ -1,0 +1,209 @@
+rajshahi metropolition police
+c&b mor
+100
+c&b mor
+laxmipur
+450
+c&b mor
+bangladesh bank
+350
+c&b mor
+kazihata
+450
+kazihata
+court station road
+400
+court station road
+city station road
+260
+laxmipur
+rajshahi gpo
+300
+rajshahi gpo
+nawabganj bypass
+450
+nawabganj bypass
+bornali mor
+500
+bornali mor
+aambagan
+240
+aambagan
+kadirganj
+1000
+laxmipur
+rmc
+500
+rmc
+medical road
+750
+medical road
+bornali mor
+2000
+aambagan
+hossainganj
+1300
+hossainganj
+dorgapara
+900
+hossainganj
+hatemkha
+550
+hatemkha
+kadirganj
+1200
+kadirganj
+upohar movie theater
+500
+kadirganj
+rajshahi govt womens college
+210
+bornali mor
+railgate
+1400
+railgate
+new market
+250
+new market
+zero point
+1200
+hossainganj
+zero point
+1100
+zero point
+padma garden
+800
+zero point
+alupotti
+500
+alupotti
+ghuramara
+500
+zero point
+pn govt high school
+200m
+alupotti
+pn govt high school
+300
+alupotti
+boserpara
+450
+alupotti
+sagarpara
+500
+sagarpara
+sultanabad
+200
+sultanabad
+rajshahi rail station
+900
+railgate
+rajshahi rail station
+500
+rajshahi rail station
+bhadra
+1300
+rajshahi rail station
+tikapara
+1200
+tikapara
+sadhurmor
+1900
+rajshahi rail station
+baliapukur
+1500
+baliapukur
+bhadra
+500
+bhadra
+talaimari
+1600
+talaimari
+rani nagar
+500
+talaimari
+boserpara
+2300
+talaimari
+mirertek
+1200
+tikapara
+mirertek
+850
+talaimari
+ruet
+200
+talaimari
+kazla
+500
+ruet
+kazla
+330
+kazla
+binodpur
+900
+binodpur
+ru
+200
+binodpur
+paris road
+1100
+kazla
+dharampur
+1000
+dharampur
+khojapur
+600
+dharampur
+dashmari
+1000
+boalia police station
+new market
+900
+boalia police station
+pn govt high school
+240
+boalia police station
+alupotti
+200
+boalia police station
+ghuramara
+200
+mirzapur police fari
+binodpur
+600
+malopara police fari
+zero point
+170
+zero point
+moni chottor
+270
+moni chottor
+c&b mor
+2000
+c&b mor
+rajpara police station
+1700
+rajpara police station
+rajshahi zoo
+550
+bangladesh bank
+rajshahi zoo
+700
+kazihata
+court
+2000
+rajshahi zoo
+court
+1200
+rajpara police station
+court
+1900
+
+
+
+
+
+
+
+

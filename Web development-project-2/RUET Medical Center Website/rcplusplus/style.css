@@ -1,0 +1,35 @@
+*{margin: 0; padding: 0;
+
+}
+
+body
+{
+	font-family: arial;
+	font-size: 16px;
+	line-height: 22px;
+	color: #666;
+	margin-color: #DDD;
+background-image: url(../backblue.jpg);
+    background-repeat: repeat;
+
+}
+
+
+.fix {overflow: hidden;}
+
+.main{
+	padding: 0;
+	margin: 25px auto;
+	width:960;
+	display: block;
+}
+
+.cover_image{ padding 0 ;}
+.cover_image img{ width=120 ;}
+.cover_image p{
+ padding:0; 
+ margin:2px; 
+ color: red; 
+ background: blue;
+  }
+.cover_image h1{}

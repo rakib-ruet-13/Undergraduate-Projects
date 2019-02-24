@@ -1,0 +1,39 @@
+	
+.fix{
+	 max-width: 100%;
+	overflow:hidden;
+	float: center;
+}
+
+.mainmanu{
+
+	margin-top: 10px;
+	background-color: rgba(255,255,255,0.3) !important;
+}
+.mainmanu ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	overflow: hidden;
+}
+.mainmanu ul li{
+	/*border-right: .5px solid white;*/
+	float: left; 
+}
+.mainmanu ul li a{
+	
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 12px 45px;
+	text-decoration: none;
+	font-size:17px; 
+	
+}
+
+.mainmanu ul li a:hover{
+	background-color: #111;
+}
+.mainmanu ul li a:hover:active{
+	background-color: #4CAF50;
+} 

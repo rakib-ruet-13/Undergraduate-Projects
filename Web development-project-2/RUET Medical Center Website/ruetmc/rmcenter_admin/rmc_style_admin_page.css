@@ -1,0 +1,99 @@
+*{margin: 0; padding: 0;line-height: 20px; float:center;
+}
+
+body
+{
+	font-family: arial;
+	font-size: 16px;
+	line-height: 20px;
+	color: black;
+        width:100%;
+	margin-color: #DDD;
+	background-image: url(../rmcenter_admin/rmc_admin_background.jpg);
+    background-repeat: repeat;
+}
+
+
+
+.main{
+	padding: 25px;
+	padding-bottom: 0px;
+	float:center;
+	margin-top: 0px;
+	line-height: 20px;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+
+
+.menu{float: center; background: rgba(255,255,255,0.2); overflow: hidden; width: 960px; margin-top: 5px; margin-bottom:5px;}
+.menu ul{ margin:5px; padding-top: 10px ; padding-bottom: 10px ; list-style: none; font-size: 15px;}
+.menu li{  align:center; padding: 15px; border: 2px solid #DDD ; text-align: center; color:white;}
+.menu li a{
+	
+	color:white;
+	text-align: center;
+   
+      
+}
+
+
+p
+{
+   line-height: 20px;
+}
+
+.show_log
+{
+	float:center;
+	text-align: center;
+	color: white;
+	font-size:14px;
+	opacity: 1.0;
+}
+
+
+
+
+
+
+.rform 
+{
+	margin: 25px,auto;
+	margin-top:  30px;
+	margin-bottom:30px;
+	background:rgba(255,255,0,0.2) ;
+	color: black;
+	padding : 5px;
+	width:100%;
+	opacity: 1.0;
+	text-align: center;
+	overflow:hidden;
+	display:block;
+}
+
+
+
+.manubar{ background: rgb(153, 51, 102); overflow: hidden; width: 100%; padding-bottom: 7px;line-height: 22px; }
+.manubar ul{ margin:10px; padding: 2px ; font-size: 15px; list-style: none;}
+
+.manubar li{  float: left; padding: 5px; margin-right: 15px ; margin-left: 15px; 
+	border: 2px solid rgb(0, 0, 26) ; text-align: center;}
+
+.manubar li a{
+	color: white;
+	margin:3px;
+	padding:3px;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+
+.manuber a
+{
+	color:white;
+}
+

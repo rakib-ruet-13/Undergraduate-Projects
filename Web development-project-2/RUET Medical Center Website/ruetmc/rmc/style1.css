@@ -1,0 +1,29 @@
+* {margin:0; padding:0}
+body{font-family:Arial;font-size:10px; line-height:20px;color:#000;background-image:url(rmc2.jpg);}
+.fix {overflow:hidden;background:#DCEDC8}
+.main{width:960px; margin: 0 auto; display:block;overflow:hidden;}
+.header{overflow:hidden;background-image:url(img1.jpg);}
+.header h2{margin-bottom:15px;}
+.logo{float:left;width:200px;}
+.name{float:right;width:500px;font-size:23px;margin-top:100px;text-align: center;margin-right: 100px;color: #2196F9;}
+.table{margin: 0px auto; width="620" border="1"; text-align: center;}
+
+
+.slider{width:960px;color:#33691E;}
+.maincontent{overflow:hidden;margin-top:30px;margin-left:10px;margin-right:10px;}
+.maincontent h2{margin-bottom:15px}
+
+.footer{background:#333;color:#fff;margin-top:25px;padding:10px;
+	height:80px;
+	position:absolute;
+	margin:auto;
+	float:center;
+	width:940px;
+	font-size: 15px;
+}
+.footer1{
+		float:left;width:400px;margin-right:60px;overflow:hidden;position:relative;}
+.footer2{
+	float:right;width:400px;overflow:hidden;padding:10px;position:relative;
+
+}

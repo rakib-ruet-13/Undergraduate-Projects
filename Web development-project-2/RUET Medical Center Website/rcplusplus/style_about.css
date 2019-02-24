@@ -1,0 +1,237 @@
+*{margin: 0; padding: 0;
+
+}
+
+body
+{
+	font-family: arial;
+	font-size: 16px;
+	line-height: 22px;
+	color: #666;
+	margin-color: #DDD;
+background-image: url(../backblue.jpg);
+    background-repeat: repeat;
+
+}
+
+
+
+
+pre
+{
+  background:rgb(205, 133, 51);
+  color:black;
+  font-size:16px;
+  padding: 8px;
+}
+
+div 
+{
+	color:black;
+	
+	
+	
+}
+
+b
+{
+	font-size: 18px;
+}
+div img
+{
+	padding: 0px;
+}
+
+h1
+{
+	padding:8px;
+	font-size: 20px;
+}
+
+
+p
+{
+	color:black;
+	padding: 20px;
+    font-size:16px;
+}
+ol 
+{
+	font-size: 20px ;
+	color:orange;
+	text-align: left;
+	padding:10px;
+	overflow: hidden;
+
+}
+
+ol li
+{
+    background: rgb(205, 133, 51);
+	font-size: 16px;
+	color:black;
+	border: 1px solid black;
+	text-align: left;
+	padding:10px;
+	overflow: hidden;
+
+}
+
+table
+{
+	background:rgb(255, 184, 77);
+	color: black;
+	border: 2px solid black;
+}
+
+th
+{
+	padding:5px;
+	border: 2px solid red;
+	
+}
+
+td
+{
+	padding:5px;
+	border: 2px solid red;
+}
+
+
+.main{
+	padding: 0;
+	margin: 25px auto;
+	width: 960px;
+	display: block;
+	overflow: hidden;
+}
+
+.cover_image img{ width: 960px; }
+.cover_image p
+{
+	padding: 0px;
+}
+
+.manubar{ background: rgb(153, 51, 102); overflow: hidden; width: 960px; padding-bottom: 7px; }
+.manubar ul{ margin:10px; padding: 2px ; font-size: 20px; list-style: none;}
+
+.manubar li{  float: left; padding: 5px; margin-right: 20px ; margin-left: 20px; 
+	border: 2px solid rgb(0, 0, 26) ; text-align: center;}
+
+.manubar li a{
+	color:black;
+	margin:5px;
+	padding:5px;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+.content{ padding:0; margin: 0px; background: black; width: 960px; }
+
+.intro{
+	 float: left ; width: 620px; margin-right:0px ; margin-top: 20px;
+	 background: #DDD;padding: 8px;
+	
+
+}
+.intro h1
+{
+    text-align:center;
+    color:orange;
+    text-align: center;
+    background:rgb(23,57,67) ;
+    margin:0px;
+    padding:8px;
+}
+
+.intro p{
+
+	text-align: center;
+	color: orange;
+	margin-bottom: 0px;
+	padding:5px;
+	background:rgb(23,57,67) ;
+
+}
+
+
+
+.pic
+{
+   
+    float: right ; width: 300px; margin-right:0px ; margin-top: 20px;
+	 background: rgb(23,57,67) ;padding: 8px;
+
+}
+
+.references
+{
+   width:960px;
+   padding:8px;
+   color:orange;
+   float:left;
+   background: rgb(23,56,67);
+   text-align: center;
+}
+
+
+.references h1
+{
+   width:960px;
+   padding:8px;
+   color:orange;
+   background: rgb(23,56,67);
+   text-align: center;
+}
+
+.references p
+{
+   width:960px;
+   padding:8px;
+   color:orange;
+   background: rgb(23,56,67);
+   text-align: center;
+}
+
+.references a
+{
+   width:960px;
+   padding:8px;
+   color:orange;
+   background: rgb(23,56,67);
+   text-align: center;
+}
+
+
+
+
+
+.links{ background: gray; overflow: hidden; width: 960px; text-align: center; 
+margin-top: 45px; margin-bottom: 25px; overflow: hidden;
+}
+.links h3
+{
+	color:black;
+}
+.links ul{ margin:2px; padding: 4px ; list-style: none; font-size: 16px;}
+.links li{  float: left; padding: 5px; margin-right: 10px ; margin-left: 10px; border: 3px solid black ; bordertext-align: left;
+background: purple;
+}
+.links li a{
+	color: rgb(255,127,39);
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+.copy
+{
+	background: gray;
+	color:purple;
+	text-align: center;
+}

@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;
+
+}
+
+body
+{
+	font-family: arial;
+	font-size: 16px;
+	line-height: 22px;
+	color: #666;
+	margin-color: #DDD;
+background-image: url(../backblue.jpg);
+    background-repeat: repeat;
+
+}
+
+
+.main{
+	padding: 0;
+	margin: 25px auto;
+	width: 960px;
+	display: block;
+	overflow: hidden;
+}
+
+
+.rform 
+{
+	margin: 25px,auto;
+	padding : 5px;
+	width:960px;
+	background: rgb(23,56,78);
+	text-align: center;
+	overflow:hidden;
+	display:block;
+}
+
+
+
